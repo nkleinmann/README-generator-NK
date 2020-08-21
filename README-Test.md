@@ -1,9 +1,7 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-    return `# ${data.title}
+# Nicole
 
 
-    ###${data.description}
+    ###Sample Readme
             
     ### Table of Contents:
             
@@ -19,8 +17,4 @@ function generateMarkdown(data) {
     
     ###Questions:
   
-  `;
-  }
-  
-  module.exports = generateMarkdown;
   
