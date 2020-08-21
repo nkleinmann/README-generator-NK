@@ -1,20 +1,33 @@
-# Nicole
+# Nicole's README
 
 
-    ###Sample Readme
+    ###sample readme
             
-    ### Table of Contents:
+    // ### Table of Contents:
+    // [Installation](#installation)
+    // [Usage](#usage)
+    // [Contributing](#contributing)
+    // [Tests](#tests)
+    // [Questions](#questions)
+    // [License](#license)
             
     ###Installation:
+    a
             
     ###Usage:
-            
-    ###License:
+    a
             
     ###Contributing:
+    a
             
     ###Tests:
+    a
     
     ###Questions:
+    Email: a
+    GitHub: 
+    a
+
+    // ###License:
   
   
