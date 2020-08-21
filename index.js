@@ -62,43 +62,17 @@ const questions =
                 message: 'Enter Github here:'
             },
             {
-                type: 'input',
+                type: 'list',
+                choices: [
+                    "MIT",
+                    "GPL",
+                    "APACHE"
+                ],
                 name: 'license',
                 message: 'Please select a license for your project:'
             }
         ]
 
-
-// promptUser().then(function(answers) {
-//     const text = generateReadMe(answers);
-//     return writeFileAsync("READEME.md", text);
-// })
-// .then(function() {
-//     console.log("Successfully wrote to ReadMe!");
-// })
-// .catch(function(err) {
-//     console.log(err);
-// });
-
-
-
-
-// function writeREADME(fileData) {
-//     try {
-//         fs.writeFile("READMEE.md", readMeTemplate, function (err) {
-//             if (err) {
-//                 return console.log(err);
-//             }
-//             console.log("file written successfully!");
-//         })
-//     } catch (err) {
-//         console.log(err);
-//     }
-// }
-
-// // function to write README file
-// function writeToFile(fileName, data) {
-// }
 
 // function to initialize program
 async function init() {
@@ -106,11 +80,12 @@ try {
     const answer = await promptUser();
     console.log(answer);
 
+    
     const readMe = generateMarkdown(answer);
 
-    await writeFileAsync("README-Test.md", readMe);
-
-    console.log("successfully wrote to README-Test.md");
+    writeFileAsync("README-Test.md", readMe).then(function() {
+        console.log("successfully wrote to README-Test.md");
+    });
 }
 catch (err) {
     console.log(err);
