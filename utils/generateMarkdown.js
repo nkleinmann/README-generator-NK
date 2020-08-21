@@ -30,6 +30,7 @@ function generateMarkdown(data) {
     ###Questions:
     Email: ${data.email}
     GitHub: 
+    ${data.github}(https://github.com${data.github})
     ${data.questions}
 
     // ###License:

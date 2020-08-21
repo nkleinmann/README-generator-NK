@@ -1,7 +1,7 @@
-# Nicole's README
+# Nicole
 
 
-    ###sample readme
+    ###a
             
     // ### Table of Contents:
     // [Installation](#installation)
@@ -26,6 +26,7 @@
     ###Questions:
     Email: a
     GitHub: 
+    a(https://github.coma)
     a
 
     // ###License:
