@@ -12,26 +12,26 @@
 1. [License](#license)
             
 ## Installation:
-run node indes.j
+run node index.js
             
 ## Usage:
-a
+To learn more about Nicole
             
 ## Contributing:
-a
+Built by: Nicole
             
 ## Tests:
-a
+None, next project will use tests!
     
 ## Questions:
-Email: a
+Email: nekleinmann@gmail.com
 
 
 GitHub: 
-[a](https://github.com/a)
+[nkleinmann](https://github.com/nkleinmann)
 
 
-a
+Please reach out with any questions!
 
 ## License:
   ![MIT](https://img.shields.io/badge/license-MIT-blue)

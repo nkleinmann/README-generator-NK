@@ -14,6 +14,9 @@ Screenshots:
 ![Screen Shot 2020-08-22 at 2 28 00 PM](https://user-images.githubusercontent.com/65608809/90963211-ff1a8c00-e483-11ea-8f16-93bb8546a078.png)
 ![1](https://user-images.githubusercontent.com/65608809/90963228-15284c80-e484-11ea-9f96-bffcabc95368.jpg)
 
+Video:
+[README Generator](https://www.youtube.com/watch?v=Uh5MgDyKMro)
+
 
 Contact info:
 nekleinmann@gmail.com
