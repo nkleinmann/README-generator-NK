@@ -1,7 +1,7 @@
-# a
+# Nicole's Project
 
 
-## a
+## About me website
             
 ## Table of Contents:
 1. [Installation](#installation)
@@ -12,7 +12,7 @@
 1. [License](#license)
             
 ## Installation:
-a
+run node indes.j
             
 ## Usage:
 a
@@ -34,5 +34,5 @@ GitHub:
 a
 
 ## License:
-  ![GPL](https://img.shields.io/badge/license-GPL-blue)
+  ![MIT](https://img.shields.io/badge/license-MIT-blue)
   

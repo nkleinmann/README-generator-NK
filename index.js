@@ -6,6 +6,7 @@ const util = require("util");
 //write README file
 const writeFileAsync = util.promisify(fs.writeFile);
 
+//Accesses generateMarkdown file 
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
 // function that asks users questions
@@ -13,8 +14,8 @@ let promptUser = () => {
     return inquirer.prompt(questions);
 }
 
+// array of objects with questions for user
 const questions = 
-        // array of questions for user
         [
             {
                 type: "input",
@@ -34,7 +35,7 @@ const questions =
             {
                 type: 'input',
                 name: 'usage',
-                message: 'What is the use for this app? Provde 2-3 screenshots.'
+                message: 'What is the use for this app?'
             },
             {
                 type: 'input',
@@ -44,7 +45,7 @@ const questions =
             {
                 type: 'input',
                 name: 'tests',
-                message: 'What tests do you ahve for your application (if any)? List test instructions and examples of how they work here.'
+                message: 'What tests do you have for your application (if any)? List test instructions and examples of how they work here.'
             },
             {
                 type: 'input',
