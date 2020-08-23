@@ -1,7 +1,7 @@
-# Nicole's Project
+# README Generator
 
 
-## About me website
+## Creates a README for any project
             
 ## Table of Contents:
 1. [Installation](#installation)
@@ -12,16 +12,16 @@
 1. [License](#license)
             
 ## Installation:
-run node index.js
+open folder in command line and run node index.js
             
 ## Usage:
-To learn more about Nicole
+To create a README for any project
             
 ## Contributing:
-Built by: Nicole
+If anyone wants to contribute, feel free!
             
 ## Tests:
-None, next project will use tests!
+None currently
     
 ## Questions:
 Email: nekleinmann@gmail.com
@@ -31,7 +31,7 @@ GitHub:
 [nkleinmann](https://github.com/nkleinmann)
 
 
-Please reach out with any questions!
+Please reach out if you have any questions
 
 ## License:
   ![MIT](https://img.shields.io/badge/license-MIT-blue)
