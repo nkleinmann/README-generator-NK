@@ -18,10 +18,10 @@ open folder in command line and run node index.js
 To create a README for any project
             
 ## Contributing:
-If anyone wants to contribute, feel free!
+If you want to contribute, feel free! Fork my project and continue working.
             
 ## Tests:
-None currently
+None currently. Tested manually.
     
 ## Questions:
 Email: nekleinmann@gmail.com
@@ -31,7 +31,7 @@ GitHub:
 [nkleinmann](https://github.com/nkleinmann)
 
 
-Please reach out if you have any questions
+Please reach out if you have any questions!
 
 ## License:
   ![MIT](https://img.shields.io/badge/license-MIT-blue)

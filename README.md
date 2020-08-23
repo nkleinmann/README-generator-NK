@@ -15,7 +15,7 @@ Screenshots:
 ![1](https://user-images.githubusercontent.com/65608809/90963228-15284c80-e484-11ea-9f96-bffcabc95368.jpg)
 
 Video:
-[README Generator](https://www.youtube.com/watch?v=Uh5MgDyKMro)
+[README Generator](https://youtu.be/Jm4RHWk0ooA)
 
 
 Contact info:
